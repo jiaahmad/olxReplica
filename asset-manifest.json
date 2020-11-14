@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/olxReplica/static/css/main.e88772c1.chunk.css",
+    "main.js": "/olxReplica/static/js/main.5a426c3d.chunk.js",
+    "main.js.map": "/olxReplica/static/js/main.5a426c3d.chunk.js.map",
+    "runtime-main.js": "/olxReplica/static/js/runtime-main.25f5bfc3.js",
+    "runtime-main.js.map": "/olxReplica/static/js/runtime-main.25f5bfc3.js.map",
+    "static/css/2.2a86faee.chunk.css": "/olxReplica/static/css/2.2a86faee.chunk.css",
+    "static/js/2.eea53710.chunk.js": "/olxReplica/static/js/2.eea53710.chunk.js",
+    "static/js/2.eea53710.chunk.js.map": "/olxReplica/static/js/2.eea53710.chunk.js.map",
+    "index.html": "/olxReplica/index.html",
+    "precache-manifest.b37d0e84c58c5cd49c0678d430294809.js": "/olxReplica/precache-manifest.b37d0e84c58c5cd49c0678d430294809.js",
+    "service-worker.js": "/olxReplica/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/olxReplica/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.e88772c1.chunk.css.map": "/olxReplica/static/css/main.e88772c1.chunk.css.map",
+    "static/js/2.eea53710.chunk.js.LICENSE.txt": "/olxReplica/static/js/2.eea53710.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/olxReplica/static/media/Capture.2f3c59a2.PNG",
+    "static/media/bottomadd.PNG": "/olxReplica/static/media/bottomadd.6dfd139f.PNG",
+    "static/media/homesecondadd2.jpg": "/olxReplica/static/media/homesecondadd2.2de8b483.jpg",
+    "static/media/topadd.png": "/olxReplica/static/media/topadd.c1e325ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f5bfc3.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.eea53710.chunk.js",
+    "static/css/main.e88772c1.chunk.css",
+    "static/js/main.5a426c3d.chunk.js"
+  ]
+}
